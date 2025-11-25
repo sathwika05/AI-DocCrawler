@@ -17,6 +17,7 @@ This AI-Driven documentation system leverages **LLM-powered retrieval intelligen
 **Bottom line:** By combining AI and **vector-based semantic search**, AI DocCrawler turns documentation into a **smarter, faster, and more accessible knowledge engine**, boosting developer productivity by **50–70%**.
 
 ---
+<img width="962" height="561" alt="image" src="https://github.com/user-attachments/assets/e1f92da0-6b37-40d1-b2e5-a30447a31026" />
 
 ## 🚀 Features
 
